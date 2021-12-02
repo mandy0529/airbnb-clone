@@ -1,8 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import {Header, Home} from './components';
 
 function App() {
-  return <div className="App">app</div>;
+  return (
+    <div className="app">
+      <Header />
+      <Home />
+    </div>
+  );
 }
 
 export default App;
