@@ -43,6 +43,7 @@ const Wrapper = styled.div`
     color: white;
     padding: 20vh 50px 50px 80px;
     width: 300px;
+
     h1 {
       font-weight: bold;
     }
